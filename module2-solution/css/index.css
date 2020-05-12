@@ -9,3 +9,8 @@ section {
 	background-color: grey;
 	margin: 12px;
 }
+section>h1 {
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
