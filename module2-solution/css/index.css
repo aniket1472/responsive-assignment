@@ -8,6 +8,7 @@ div {
 h1 {
 	text-align: center;
 	color: black;
+	font-size: 175%;
 }
 section {
 	border: 1px solid black;
@@ -25,7 +26,8 @@ section>h1 {
 	height: 45px;
 	margin: 0px;
 	text-align: center;
-	padding-top: 10px; 
+	padding-top: 10px;
+	font-size: 125%;
 }
 p {
 	padding: 40px 15px 10px 15px;
